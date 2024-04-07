@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AWB-1o1
+- 👋 Hi, I’m Bosita
 - 👀 I’m interested in philosophy, psychology, and the financial markets. 
 - 🌱 I’m currently learning python. 
 - 💞️ I’m looking to collaborate on program development. 
